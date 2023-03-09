@@ -1,2 +1,2 @@
 #!/bin/bash
-mplayer -vo caca StarWarsIV
+telnet towel.blinkenlights.nl
