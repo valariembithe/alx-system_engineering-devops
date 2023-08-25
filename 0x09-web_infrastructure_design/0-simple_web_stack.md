@@ -1,4 +1,4 @@
-#Simple Web Stack
+# Simple Web Stack
 ![](https://github.com/valariembithe/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0-simple_web_stack.jpg)
 
 - ### What is a server
