@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """ Records all tasks from all employees in json format """
 
-import requests
 import json
+import requests
 
 if __name__ == "__main__":
     url = "https://jsonplaceholder.typicode.com/"
